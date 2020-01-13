@@ -5,6 +5,4 @@ john
 kate
 thomas
 claire
-nathalie
-robert
-marcus
+bridget
