@@ -4,3 +4,4 @@ mary
 john
 kate
 thomas
+claire
